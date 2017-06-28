@@ -5,4 +5,4 @@ example of using the WordPress REST API.
 
 ### It uses jQuery
 
-[jQuery](https://jquery.com/) is the most common JavaScript
+[jQuery](https://jquery.com/) is the most common JavaScript Library.
