@@ -62,7 +62,11 @@ jQuery(document).ready(function(){
 			$('#result').html(result);
 
 			});
+
 		}
+
 		});
+
 	};
+
 });
