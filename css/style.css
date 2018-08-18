@@ -1,4 +1,5 @@
-strong, b {
+strong,
+b {
     font-weight: bold;
 }
 
@@ -43,7 +44,8 @@ strong, b {
     height: auto;
 }
 
-ol, ul {
+ol,
+ul {
     display: block;
     list-style-type: none;
     padding-right: 30px;
